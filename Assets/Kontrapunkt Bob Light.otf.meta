@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8a5261d032b0e0e47a959af116af7a85
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kontrapunkt Bob
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 64d5e538fef484b47b68439843a6e1cf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
